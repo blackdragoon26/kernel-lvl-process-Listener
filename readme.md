@@ -62,11 +62,6 @@ Process <command_name> (PID:<process_id>, PPID: <parent_process_id>) called sys_
 - Has access to kernel-level system calls
 - Use with caution in production environments
 
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit pull requests.
-
-## 📜 License
-[Your License Here]
 
 ## ⚠️ Disclaimer
 This tool interacts with kernel-level operations. Use at your own risk and ensure you understand the implications of running eBPF programs in your environment.
